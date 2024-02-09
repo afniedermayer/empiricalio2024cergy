@@ -7,3 +7,11 @@
 ## Lecture 2
 
 [Slides Lecture 2](EmpiricalIOChap22024.pdf)
+
+## Lecture 3
+
+[Slides Lecture 3](EmpiricalIOChap32024trans.pdf)
+
+## Problem Sets
+
+[Problem Set 1](problem_set1.pdf)
