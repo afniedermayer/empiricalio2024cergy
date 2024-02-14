@@ -14,4 +14,5 @@
 
 ## Problem Sets
 
-[Problem Set 1](problem_set1.pdf)
+[Problem Set 1](problem_set1.pdf), due date: February 14, 2024
+[Problem Set 2](problem_set2.pdf), due date: February 28, 2024
