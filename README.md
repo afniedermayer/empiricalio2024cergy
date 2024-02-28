@@ -12,6 +12,16 @@
 
 [Slides Lecture 3](EmpiricalIOChap32024trans.pdf)
 
+## Lecture 4
+
+[Slides Lecture 4](empiricalio_chap4.pdf)
+
+## Lecture 5
+
+[Slides Lecture 5](empiricalio_chap5.pdf)
+
+[Notebook on Kernel Density Estimation](kernel-density-example.ipynb)
+
 ## Problem Sets
 
 [Problem Set 1](problem_set1.pdf), due date: February 14, 2024
