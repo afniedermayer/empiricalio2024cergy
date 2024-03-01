@@ -20,10 +20,12 @@
 
 [Slides Lecture 5](empiricalio_chap5.pdf)
 
-[Notebook on Kernel Density Estimation](kernel-density-example.ipynb)
+[Notebook on Kernel Density Estimation (with solution to exercise 1)](kernel-density-example-exercise1.ipynb)
 
 ## Problem Sets
 
 [Problem Set 1](problem_set1.pdf), due date: February 14, 2024
 
 [Problem Set 2](problem_set2.pdf), due date: February 28, 2024
+
+Homework Assignment 3: Solve exercise 2 in the [Kernel Density Estimation notebook](kernel-density-example-exercise1.ipynb) above, due date: March 5, 2024
