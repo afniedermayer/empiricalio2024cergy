@@ -51,6 +51,8 @@ Please download the following notebooks, read them carefully, and execute the co
 
 [Slides Lecture 7](empiricalio_chap7.pdf)
 
+[Notebook on Maximization and Equation Solving](maximize_solve.ipynb)
+
 ## Problem Sets
 
 [Problem Set 1](problem_set1.pdf), due date: February 14, 2024
