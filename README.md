@@ -47,6 +47,10 @@ Please download the following notebooks, read them carefully, and execute the co
 
 [Notebook with BLP Exercise](exercise_blp.ipynb)
 
+## Lecture 7
+
+[Slides Lecture 7](empiricalio_chap7.pdf)
+
 ## Problem Sets
 
 [Problem Set 1](problem_set1.pdf), due date: February 14, 2024
