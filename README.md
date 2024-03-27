@@ -53,6 +53,8 @@ Please download the following notebooks, read them carefully, and execute the co
 
 [Notebook on Maximization and Equation Solving](maximize_solve.ipynb)
 
+[Notebook Nonlinear Pricing](nlp.ipynb)
+
 ## Problem Sets
 
 [Problem Set 1](problem_set1.pdf), due date: February 14, 2024
