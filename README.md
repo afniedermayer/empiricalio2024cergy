@@ -53,7 +53,7 @@ Please download the following notebooks, read them carefully, and execute the co
 
 [Notebook on Maximization and Equation Solving](maximize_solve.ipynb)
 
-[Notebook Nonlinear Pricing](nlp.ipynb)
+[Notebook Nonlinear Pricing](nlp2.ipynb)
 
 ## Problem Sets
 
@@ -62,3 +62,5 @@ Please download the following notebooks, read them carefully, and execute the co
 [Problem Set 2](problem_set2.pdf), due date: February 28, 2024
 
 Homework Assignment 3: Solve exercise 2 in the [Kernel Density Estimation notebook](kernel-density-example-exercise1.ipynb) above, due date: March 5, 2024
+
+Homework Assignment 4: Solve Exercise 3 in [Nonlinear Pricing Notebook](nlp2.ipynb), due date: April 10, 2024
