@@ -55,6 +55,10 @@ Please download the following notebooks, read them carefully, and execute the co
 
 [Notebook Nonlinear Pricing](nlp2.ipynb)
 
+## Lecture 8
+
+Web scraping: [Install](https://docs.scrapy.org/en/latest/intro/install.html) the web scraping framework scrapy and go through the [first section of the tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
+
 ## Problem Sets
 
 [Problem Set 1](problem_set1.pdf), due date: February 14, 2024
