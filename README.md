@@ -59,6 +59,10 @@ Please download the following notebooks, read them carefully, and execute the co
 
 Web scraping: [Install](https://docs.scrapy.org/en/latest/intro/install.html) the web scraping framework scrapy and go through the [first section of the tutorial](https://docs.scrapy.org/en/latest/intro/tutorial.html)
 
+[Slides Lecture 8](empiricalio_chap8.pdf)
+
+[Notebook on Unobserved Heterogeneity](unobserved_heterogeneity.ipynb)
+
 ## Problem Sets
 
 [Problem Set 1](problem_set1.pdf), due date: February 14, 2024
