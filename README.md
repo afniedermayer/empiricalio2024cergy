@@ -24,7 +24,7 @@
 
 [Slides Lecture 5](empiricalio_chap5.pdf)
 
-[Notebook on Kernel Density Estimation (with solution to exercise 1)](kernel-density-example-exercise1.ipynb)
+[Notebook on Kernel Density Estimation (with solutions)](kernel-density-solution-symmetric.ipynb)
 
 ## Lecture 6
 
@@ -55,7 +55,7 @@ Please download the following notebooks, read them carefully, and execute the co
 
 [Slides Lecture 7](empiricalio_chap7.pdf)
 
-[Notebook on Maximization and Equation Solving](maximize_solve.ipynb)
+[Notebook on Maximization and Equation Solving (with solutions)](maximize_solve_solution.ipynb)
 
 [Notebook Nonlinear Pricing](nlp2.ipynb)
 
